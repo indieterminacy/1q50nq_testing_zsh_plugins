@@ -1,9 +1,10 @@
 #!/usr/bin/zsh
 
-# https://github.com/alfredodeza/zsh-plugins
 ####################
 # oq Python
 ####################
+# For sourcing environments
+# https://github.com/alfredodeza/zsh-plugins
 ####################
 # oq PyLint
 ####################
